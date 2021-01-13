@@ -105,4 +105,4 @@ theme: landscape
 deploy:
   type: git
   repository: https://github.com/zhweiGuo/zhweiGuo.github.io
-  branch: main
+  branch: gh-pages
